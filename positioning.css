@@ -1,0 +1,108 @@
+*{
+    box-sizing: border-box;
+}
+header{
+    display: flex;
+    gap: 350px;
+    background-color: #24252A;
+    justify-content: center;
+    align-items: center;
+
+}
+.list{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    width: 500px;
+    color: white;
+}
+.lefthead{
+    color: white;
+}
+.dis{
+    border: 1px solid #0786A9;
+    border-radius: 25px;
+    background-color: #0786A9;
+    padding: 0px 10px;
+    align-content: center;
+}
+.header{
+    color: #2588CC;
+    margin-bottom: 5px;
+    font-size: 30px;
+}
+.heading{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 60px;
+}
+.subheading{
+    margin: 5px;
+}
+.content{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 30px;
+}
+.card1{
+    width: 230px;
+    height: 300px;
+    background: #e0e0e0;
+    box-shadow: 15px 15px 30px #bebebe,
+                -15px -15px 30px #ffffff;
+    position: relative;            
+}
+.ad{
+    position: absolute;
+}
+.card2{
+    width: 230px;
+    height: 300px;
+    background: #e0e0e0;
+    box-shadow: 15px 15px 30px #bebebe,
+                -15px -15px 30px #ffffff;
+    
+}
+.card3{
+    width: 230px;
+    height: 300px;
+    background: #e0e0e0;
+    box-shadow: 15px 15px 30px #bebebe,
+                -15px -15px 30px #ffffff;
+    
+}
+.med{
+    color: #2588CC;
+    font-size: 24px;
+    align-items: center;
+}
+.cardcontent{
+    align-items: center;
+    padding: 15px;
+    margin-top: 70px;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+.more{
+    border: 1px solid black;
+    border-radius: 20px;    
+    padding: 5px 10px;
+    justify-content: center;
+    align-items: center;
+}
+.p-content{
+    text-align: center;
+}
+#twit{
+    height: 20px;
+}
+#tube{
+    height: 20px;
+}
+#insta{
+    height: 20px;
+}
