@@ -1,5 +1,5 @@
 
-# Positioning and Z-index
+# Positioning 
 
 > To assign different elements to cerrtain postions on the web page.
 
