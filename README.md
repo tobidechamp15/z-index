@@ -1,7 +1,7 @@
 
 # Positioning 
 
-> To assign different elements to cerrtain postions on the web page.
+> To assign different elements to certain postions on the web page.
 
 
 ## Built With
@@ -11,6 +11,10 @@
 
 
 To get a local copy up and running follow these simple example steps.
+
+## Live Demo
+https://champscards.netlify.app/
+
 
 ### Prerequisites
 Have Vscode installed
