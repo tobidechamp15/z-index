@@ -1,6 +1,6 @@
 # Positioning
 
-> To assign different elements to certain postions on the web page.
+> To assign different elements to certain positions on the web page.
 
 ## Built With
 
