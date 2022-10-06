@@ -1,37 +1,33 @@
+# Positioning
 
-# Positioning 
-
-> To assign different elements to certain postions on the web page.
-
+> To assign different elements to certain positions on the web page.
 
 ## Built With
 
 - HTML, CSS
 - GIT and Github used
 
-
 To get a local copy up and running follow these simple example steps.
 
 ## Live Demo
+
 https://champscards.netlify.app/
 
-
 ### Prerequisites
+
 Have Vscode installed
 Liveserver
 
 ### Setup
-Clone the reprository
+
+Clone the reprository,
 Open with liveserver
 
 ## Author
 
-👤 **Author1**
-
 - GitHub: [@githubhandle](https://github.com/tobidechamp15)
 - Twitter: [@twitterhandle](https://twitter.com/tobidechamp15)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/tobiloba-oluwadare-4bba71249/)
-
 
 ## 🤝 Contributing
 
@@ -52,5 +48,3 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
-
- 
