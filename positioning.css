@@ -1,32 +1,44 @@
 *{
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
-header{
-    display: flex;
-    gap: 350px;
+.header{
+    display: flex;    
     background-color: #24252A;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
-
+    padding: 10px 50px;
 }
 .list{
     display: flex;
     justify-content: space-around;
     list-style: none;
-    width: 500px;
+    align-items: center;
+    gap: 20px;
     color: white;
+    padding: 0;
 }
 .lefthead{
     color: white;
+    font-size: 12px;
+    font-family: Roboto;
+    font-weight: 700;
 }
-.dis{
+.custom-nav-items{
+    font-size: 16px;
+    font-family: Roboto;    
+}
+.custom-nav-discord{
+    font-size: 20px;
+    font-family: Roboto;
     border: 1px solid #0786A9;
     border-radius: 25px;
-    background-color: #0786A9;
     padding: 0px 10px;
-    align-content: center;
+    background-color: #0786A9;
+    font-weight: 800;
 }
-.header{
+.custom-use{
     color: #2588CC;
     margin-bottom: 5px;
     font-size: 30px;
@@ -39,37 +51,44 @@ header{
 }
 .subheading{
     margin: 5px;
+    font-size: 16px;
+    font-family: Roboto;
+    font-weight: 700;
+    color: rgb(177, 174, 174);
 }
-.content{
+/* .content{
     display: flex;
     flex-direction: row;
     gap: 20px;
     justify-content: center;
     margin-top: 30px;
+} */
+.custom-menubar{
+    width: 24px;
+    height: 24px;
 }
-.card1{
-    width: 230px;
+.card1{    
     height: 300px;
-    background: #e0e0e0;
+    background: #212123;
     box-shadow: 15px 15px 30px #bebebe,
-                -15px -15px 30px #ffffff;
+        -15px -15px 30px #ffffff;
     position: relative;            
 }
 .ad{
     position: absolute;
 }
 .card2{
-    width: 230px;
+    
     height: 300px;
-    background: #e0e0e0;
+    background: #212123;
     box-shadow: 15px 15px 30px #bebebe,
                 -15px -15px 30px #ffffff;
     
 }
 .card3{
-    width: 230px;
+    
     height: 300px;
-    background: #e0e0e0;
+    background: #212123;
     box-shadow: 15px 15px 30px #bebebe,
                 -15px -15px 30px #ffffff;
     
@@ -85,6 +104,7 @@ header{
     margin-top: 70px;
     justify-content: center;
     display: flex;
+    color: #fff;
     flex-direction: column;
 }
 .more{
